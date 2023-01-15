@@ -3,6 +3,3 @@
 
 Repositorio para aprendizado.
 
-Alterandolinha para teste.
-
-.
